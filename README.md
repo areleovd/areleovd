@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @areleovd
 - 👀 I’m interested in learning programming languages for fun
-- 🌱 I’m currently learning Rust!
+- 🌱 I’m currently learning Rust and bash scripting!
 - ⚡ Fun fact: I gain and lose weight like a yoyo because of my PCOS lol
 
 <!---
